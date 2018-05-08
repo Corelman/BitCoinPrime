@@ -1,0 +1,9 @@
+Building Bitcoinprime
+
+See doc/readme-qt.rst for instructions on building Bitcoinprime-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bitcoinprime.
+
+See doc/build-*.txt for instructions on building bitcoinprimed,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bitcoinprime.
