@@ -15,7 +15,7 @@ Bitcoinprime is a new version of Bitcoin using scrypt as a proof-of-work algorit
 
 -Block interval of 5 minutes
 
--Maximum supply of 350k coins
+-Maximum supply of 97M coins
 
 License
 -------
