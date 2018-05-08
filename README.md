@@ -1,25 +1,21 @@
 Bitcoinprime integration/staging tree
 ================================
 
-http://www.bitcoinprime.org
+Oficial website soon
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Bitcoinprime Developers
+Copyright (c) 2017-2018 Bitcoinprime Developers
 
 What is Bitcoinprime?
 ----------------
 
-Bitcoinprime is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+Bitcoinprime is a new version of Bitcoin using scrypt as a proof-of-work algorithm.
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+-Initial reward of 20 coins
 
-For more information, as well as an immediately useable, binary version of
-the Bitcoinprime client sofware, see http://www.bitcoinprime.org.
+-Block interval of 5 minutes
+
+-Maximum supply of 350k coins
 
 License
 -------
